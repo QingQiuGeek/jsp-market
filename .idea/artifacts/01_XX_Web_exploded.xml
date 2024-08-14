@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="01项目代码、数据库备份或数据文件-XX:Web exploded">
+    <output-path>$PROJECT_DIR$/XMMarket/target</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="01项目代码、数据库备份或数据文件-XX/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="01项目代码、数据库备份或数据文件-XX" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
